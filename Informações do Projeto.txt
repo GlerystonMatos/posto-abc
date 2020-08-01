@@ -1,0 +1,10 @@
+Informações do Projeto
+
+Versão do Delphi usada: XE2.
+Conexão com o banco de dados: dbexpress.
+Banco de dados: FireBird.
+Gerador de relatórios: Fortes Report.
+
+Gleryston Matos
+glerystonmatos@yahoo.com.br
+glerystonmatos@gmail.com
